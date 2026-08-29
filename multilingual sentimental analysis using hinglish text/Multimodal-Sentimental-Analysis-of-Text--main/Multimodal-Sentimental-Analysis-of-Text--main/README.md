@@ -14,7 +14,7 @@ The project uses Natural Language Processing (NLP) techniques for preprocessing 
 - 🌐 Translate Hinglish text to English
 - 🧹 Text preprocessing and cleaning
 - 🔤 Tokenization and stopwords removal
-- 📊 TF-IDF feature extraction
+- 📊 TF-IDF feature extraction plus Binary or bags
 - 🤖 Train multiple Machine Learning models
 - 📈 Compare model performance
 - ✅ Predict Positive, Negative, or Neutral sentiment

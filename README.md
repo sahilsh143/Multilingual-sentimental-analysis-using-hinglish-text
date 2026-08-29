@@ -150,7 +150,7 @@ Sarcasm and irony are difficult to detect.
 TF-IDF does not capture contextual meaning as effectively as transformer-based models.
 Performance depends on dataset quality.
 👨‍💻 Author
-Rajinder Sharma
+Sahil Sharma
 
 B.Tech Computer Science Engineering
 

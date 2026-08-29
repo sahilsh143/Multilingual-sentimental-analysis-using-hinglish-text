@@ -1,0 +1,6 @@
+streamlit>=1.55.0
+pandas>=2.3.3
+scikit-learn>=1.9.0
+plotly>=6.9.0
+matplotlib>=3.11.1
+wordcloud>=1.9.6

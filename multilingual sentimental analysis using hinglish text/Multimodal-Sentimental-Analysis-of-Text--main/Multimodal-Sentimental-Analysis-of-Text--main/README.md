@@ -236,7 +236,7 @@ Positive
 
 ## 👨‍💻 Author
 
-**Rajinder Sharma**
+**Sahil Sharma**
 
 B.Tech Computer Science Engineering
 
